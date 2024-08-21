@@ -22,10 +22,6 @@ MLTradingBot is an automated trading bot that leverages machine learning for sen
 ### Setup
 
 1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/nicknochnack/MLTradingBot.git
-    cd MLTradingBot
-    ```
 
 2. **Create a Virtual Environment**:
     ```bash
